@@ -2,6 +2,7 @@
 ##  DirtyPipe - CVE-2022-0847
 
 `https://docs.h4rithd.com/linux/privilageesc-linux#id-06.9-dirtypipe-cve-2022-0847`
+https://docs.h4rithd.com/linux/privilageesc-linux#id-06.9-dirtypipe-cve-2022-0847
 
 ```bash
 ./dpipe-root
